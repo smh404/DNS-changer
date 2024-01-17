@@ -13,3 +13,5 @@ First you change the interface name at the top of the file with your devices act
 Then you choose an option in the cmd and hit enter And the bat file will change your interface dns to dhcp fisrt* then change the primary and seccondary dns server to your desired ones
 
 *every option in the script changes your dns to dhcp first and then applies the dns servers to avoid your interface getting more than two servers every time
+
+ps : you can remove the pause at the end if you want the cmd to close automatically after you choose a server
